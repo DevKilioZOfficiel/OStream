@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dev-time.eu/sitemap.xml
